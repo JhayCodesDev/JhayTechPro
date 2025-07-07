@@ -2,7 +2,7 @@ Hi, I'm Joshua 👋
 
 👀 Interested in: Full Stack Web Development, Coding, and Problem-Solving.
 
-🌱 Currently learning: HTML, CSS, JavaScript, React, and Node.js.
+🌱 Currently learning: JavaScript.
 
 💞️ Collaborate on: Open-source web projects, coding challenges, and innovative web solutions.
 
@@ -13,7 +13,7 @@ Email: odusanyajoshua3@gmail.com
 Linkedin: Joshua Odusanya oluwafunmibi 
 
 
-Twitter: @odusanya3
+Twitter: @JhayCodes
 
 😄 Pronouns: He/Him.
 
